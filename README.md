@@ -6,14 +6,17 @@ The kit contains works by:
 * *On Lisp* book by Paul Graham
 * *Successful Lisp* by David Lamkins
 
-Complete development and learning environments:
+Containts three complete development and learning environments!
 
-LispWorks ![Lispworks screenshot](https://www.common-lisp.net/project/lisp-res-kit/images/lispshot-lispworks.png)
+### LispWorks ###
+![Lispworks screenshot](https://www.common-lisp.net/project/lisp-res-kit/images/lispshot-lispworks.png)
 
-Allegro Common Lisp by Franz ![Franz](https://www.common-lisp.net/project/lisp-res-kit/images/lispshot-acl.png)
+### Allegro Common Lisp by Franz ###
+![Franz](https://www.common-lisp.net/project/lisp-res-kit/images/lispshot-acl.png)
 
-CMU Common Lisp and Emacs ![CMUCL](https://www.common-lisp.net/project/lisp-res-kit/images/lispshot-cmu.png)
+### CMU Common Lisp and Emacs ###
+![CMUCL](https://www.common-lisp.net/project/lisp-res-kit/images/lispshot-cmu.png)
 
-# DOWNLOAD NOW #
+### DOWNLOAD NOW! ###
 
-(download bootable ISO)[http://lispnyc.org/static/iso/lisp-res-kit.2004-12-23.iso]
+[#download bootable ISO#](http://lispnyc.org/static/iso/lisp-res-kit.2004-12-23.iso)
