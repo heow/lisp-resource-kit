@@ -17,6 +17,8 @@ Containts three complete development and learning environments!
 ### CMU Common Lisp and Emacs ###
 ![CMUCL](https://www.common-lisp.net/project/lisp-res-kit/images/lispshot-cmu.png)
 
-### DOWNLOAD NOW! ###
+# DOWNLOAD NOW! #
 
-[#download bootable ISO#](http://lispnyc.org/static/iso/lisp-res-kit.2004-12-23.iso)
+[download bootable ISO](http://lispnyc.org/static/iso/lisp-res-kit.2004-12-23.iso)
+
+Thanks!
